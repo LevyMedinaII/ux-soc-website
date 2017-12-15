@@ -346,3 +346,45 @@ ul li{
   height: 75vh;
 }
 
+
+.work-header
+{
+
+margin:34px 0px;
+font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+font-size: 50px;
+color: #20252B;
+}
+.work-header-2
+{
+margin:0px 0px;
+font-family: Proxima Nova;
+line-height: normal;
+font-size: 16px;
+letter-spacing: 0.32em;
+color: #B3BCC4;
+
+}
+.wrapper-1
+{
+  display:flex;
+  justify-content: space-around;
+}
+.button-container
+{
+  width:50vw;
+}
+.cu-button
+{
+  background: #008ED4;
+  border-radius: 8px;
+  padding:31px 68px;
+  font-size:16px; 
+  color:#FFF; 
+  margin-left:149px;
+  text-decoration: none;
+}
+
